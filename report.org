@@ -6,7 +6,7 @@
 #+AUTHOR: Heze Yin, Laixian Wan, Peiqing Lu, Xiaoduan Chang
 #+OPTIONS: toc:nil
 
-GitHub link:
+GitHub link: https://github.com/drcxd/CS655_GENI_Project_uTP
 
 Project on GENI: =utp-experiment=
 
