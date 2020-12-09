@@ -1,4 +1,4 @@
-# CS655_GENI_Project_$\mu$TP
+# CS655_GENI_Project_uTP
 
 List of files:
 
